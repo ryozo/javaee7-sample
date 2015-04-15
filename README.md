@@ -1,3 +1,5 @@
-# JavaEE7によるWebアプリケーションサンプル
+# JavaEE7によるWebアプリサンプル
 
-JSF2.2、CDI1.1、EJB3.0を利用
+1. JSF2.2
+1. CDI1.1
+1. EJB3.0
