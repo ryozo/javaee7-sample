@@ -4,6 +4,7 @@
 	<groupId>net.equj65.javaee7</groupId>
 	<artifactId>javaee7-sample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
