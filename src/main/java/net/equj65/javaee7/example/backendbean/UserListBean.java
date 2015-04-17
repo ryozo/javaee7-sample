@@ -10,7 +10,6 @@ import java.util.List;
 
 /**
  * ユーザ一覧画面に関するManagedBeanです。
- * TODO lombok
  */
 @ManagedBean
 public class UserListBean {
