@@ -1,6 +1,6 @@
 package net.equj65.javaee7.example.service.impl;
 
-import net.equj65.javaee7.example.entity.User;
+import net.equj65.javaee7.example.domain.User;
 import net.equj65.javaee7.example.service.UserService;
 
 import javax.ejb.Stateless;

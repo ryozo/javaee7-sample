@@ -1,6 +1,6 @@
 package net.equj65.javaee7.example.service;
 
-import net.equj65.javaee7.example.entity.User;
+import net.equj65.javaee7.example.domain.User;
 
 import javax.ejb.Local;
 import java.util.List;
