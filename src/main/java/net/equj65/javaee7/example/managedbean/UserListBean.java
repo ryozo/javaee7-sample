@@ -1,4 +1,4 @@
-package net.equj65.javaee7.example.backendbean;
+package net.equj65.javaee7.example.managedbean;
 
 import lombok.Getter;
 import net.equj65.javaee7.example.domain.User;

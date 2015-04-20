@@ -1,4 +1,4 @@
-package net.equj65.javaee7.example.backendbean;
+package net.equj65.javaee7.example.managedbean;
 
 import javax.faces.bean.ManagedBean;
 import javax.faces.context.ExternalContext;
